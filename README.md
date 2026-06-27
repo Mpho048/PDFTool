@@ -1,15 +1,19 @@
 # PDFTool
 
-Extract tables from PDF files and convert them into structured datasets.
+![PDFTool Banner](images/pdftool_banner.png)
 
-Features:
+Extract PDF tables and convert them into structured datasets.
 
-✓ Extract PDF tables  
-✓ Convert to DataFrame  
-✓ Export CSV  
-✓ Export Excel  
-✓ Export SQL database  
-✓ Generate reports
+## Features
+✓ PDF table extraction
+✓ CSV export
+✓ Excel export
+✓ SQL database export
+✓ Report generation
+
+Workflow:
+
+PDF → DataFrame → CSV / Excel / SQL
 
 PDF Table Extraction Tool
 
