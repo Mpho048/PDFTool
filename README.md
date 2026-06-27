@@ -1,6 +1,6 @@
 # PDFTool
 
-![PDFTool Banner](images/pdftool_banner.png)
+![PDFTool Banner](pdftool_banner.png)
 
 Extract PDF tables and convert them into structured datasets.
 
