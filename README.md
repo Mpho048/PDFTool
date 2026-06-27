@@ -5,10 +5,11 @@
 Extract PDF tables and convert them into structured datasets.
 
 ## Features
-✓ PDF table extraction
-✓ CSV export
-✓ Excel export
-✓ SQL database export
+
+✓ PDF table extraction  
+✓ CSV export  
+✓ Excel export  
+✓ SQL database export  
 ✓ Report generation
 
 Workflow:
